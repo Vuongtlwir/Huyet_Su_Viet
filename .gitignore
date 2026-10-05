@@ -1,0 +1,62 @@
+# ===== Unity: thư mục sinh tự động =====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ===== IDE / editor =====
+/.vs/
+/.idea/
+/.vscode/
+/[Bb]uild[Ll]ogs/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# ===== Crash dump =====
+sysinfo.txt
+crashlytics-build.properties
+*.stackdump
+
+# ===== Build output =====
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+
+# ===== Mixamo: KHÔNG commit tệp thô =====
+# Điều khoản Mixamo: dùng trong game OK, cấm phát tánh tệp nhân vật/hoạt hình thô.
+# Repo này đẩng lên GitHub công khai → mọi tệp Mixamo thô đều bị chặn.
+# Import animation bằng cách: Assets > Import Package > chọn .unitypackage cục bộ.
+Assets/Art/Mixamo/
+*.fbx
+*.blend
+!Assets/Art/Kenney/**/*.fbx
+
+# ===== Asset tải về (không commit) =====
+/Downloads/
+*.unitypackage
+*.zip
+*.rar
+*.7z
