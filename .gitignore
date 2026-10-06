@@ -53,6 +53,7 @@ Assets/Art/Mixamo/
 *.fbx
 *.blend
 !Assets/Art/Kenney/**/*.fbx
+!Assets/Art/quaternius/**/*.fbx
 
 # ===== Asset tải về (không commit) =====
 /Downloads/
