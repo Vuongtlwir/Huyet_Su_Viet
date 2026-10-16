@@ -1,16 +1,20 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float speed = 10f;
-    private Rigidbody rb;
+    [SerializeField] private float gravity = -9.81f;
+    [SerializeField] private Transform cam;
+    private CharacterController cc;
     private float movementX;
     private float movementY;
+    private float verticalVelocity;
 
     void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        cc = GetComponent<CharacterController>();
     }
 
     void OnMove(InputValue movementValue)
@@ -20,10 +24,19 @@ public class PlayerController : MonoBehaviour
         movementY = movementVector.y;
     }
 
-    void FixedUpdate()
+
+    void Update()
     {
-        // 1. Tạo hướng di chuyển
-        Vector3 movement = new Vector3(movementX, 0.0f, movementY);
-        rb.linearVelocity = new Vector3(movementX * speed, rb.linearVelocity.y, movementY * speed);
+        if (cc.isGrounded && verticalVelocity < 0f) verticalVelocity = -2f;
+        verticalVelocity += gravity * Time.deltaTime;
+
+        Vector3 camF = Vector3.ProjectOnPlane(cam.forward, Vector3.up).normalized;
+        Vector3 camR = Vector3.ProjectOnPlane(cam.right, Vector3.up).normalized;
+        Vector3 move = camF * movementY + camR * movementX;
+
+        if (move.sqrMagnitude > 0.001f)
+            transform.rotation = Quaternion.LookRotation(move) * Quaternion.Euler(0f, 180f, 0f);
+
+        cc.Move((move * speed + Vector3.up * verticalVelocity) * Time.deltaTime);
     }
 }
