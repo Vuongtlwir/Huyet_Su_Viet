@@ -1,0 +1,8 @@
+file,clip,category,source,mirror,inplace,with_weapon,seconds,frames_30fps
+FBX/Animations/Combat_Longsword/A_Knight_idle_sword.fbx,idle_sword,Combat_Longsword,authored_script,0,0,1,8.00,241
+FBX/Animations/Combat_Longsword/A_Knight_km_attack_slash_sword.fbx,km_attack_slash_sword,Combat_Longsword,kimodo,0,0,1,2.47,75
+FBX/Animations/Combat_Longsword/A_Knight_km_march_forward_sword.fbx,km_march_forward_sword,Combat_Longsword,kimodo,0,0,1,3.97,120
+FBX/Animations/Combat_Longsword/A_Knight_km_parry_riposte_sword.fbx,km_parry_riposte_sword,Combat_Longsword,kimodo,0,0,1,2.47,75
+FBX/Animations/Combat_Longsword/A_Knight_km_walk_forward_sword.fbx,km_walk_forward_sword,Combat_Longsword,kimodo,0,0,1,2.43,74
+FBX/Animations/Combat_Longsword/A_Knight_km_warrior_idle_b_sword.fbx,km_warrior_idle_b_sword,Combat_Longsword,kimodo,0,0,1,8.00,241
+FBX/Animations/Combat_Longsword/A_Knight_victory_celebration_sword.fbx,victory_celebration_sword,Combat_Longsword,tripo_preset,0,0,1,5.67,171

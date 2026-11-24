@@ -7,13 +7,13 @@ public class CameraController : MonoBehaviour
     [SerializeField] private float distance = 5f;
     [SerializeField] private float height = 1.5f;
     [SerializeField] private float sensitivity = 0.15f;
-    [SerializeField] private float minPitch = -30f;
-    [SerializeField] private float maxPitch = 70f;
+    [SerializeField] private float minPitch = -30f; // giới hạn cúi xuống
+    [SerializeField] private float maxPitch = 70f; // giới hạn cúi lên
     [SerializeField] private LayerMask collisionMask;
     [SerializeField] private float cameraRadius = 0.2f; // Độ dày bán kính va chạm camera
 
-    private float yaw;
-    private float pitch;
+    private float yaw; // Góc xoay ngang
+    private float pitch; // Góc xoay dọc
 
     void Start()
     {
@@ -39,7 +39,7 @@ public class CameraController : MonoBehaviour
         Vector3 targetDir = rot * new Vector3(0f, 0f, -distance);
         Vector3 desired = pivot + targetDir;
 
-        // Dùng SphereCast thay vì Linecast để tính tới độ dày/bán kính của Camera
+        // Dùng SphereCast thay vì Linecast để tính tới bán kính của Camera
         if (Physics.SphereCast(pivot, cameraRadius, targetDir.normalized, out RaycastHit hit, distance, collisionMask))
         {
             // Đẩy camera ra xa điểm va chạm một khoảng bằng cameraRadius

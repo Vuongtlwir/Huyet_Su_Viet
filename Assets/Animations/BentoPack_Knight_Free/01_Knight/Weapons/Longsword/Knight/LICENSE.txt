@@ -1,0 +1,50 @@
+Dark Fantasy Knight - Longsword - LICENCE
+
+Which licence applies
+- Marketplace that imposes its own asset licence (e.g. Fab): that licence replaces all terms below
+  except the factual disclosures of Clause 4.
+- Direct channel such as itch.io or Gumroad (paid or free): the terms below apply.
+
+Licensor: Bento Pack. Contact: pedro.bento@bentocorp.org
+Third-party motions are included under licence. All rights the Licensor holds are reserved except
+as granted below.
+
+"Asset": all models, rigs, animations, textures, scripts and updates in this pack. "End Product":
+your game, app, film, render or VR/AR work with substantial content of your own (not a pack, kit
+or template).
+
+1. Grant. The Licensor grants you (one downloading or purchasing person, or one legal entity) a
+   non-exclusive, worldwide, perpetual licence to use, modify and integrate the Asset in any
+   number of commercial or non-commercial End Products, for any number of end users, and in their
+   marketing. Your employees and contractors may use the files only for your End Products
+   (contractors delete their copies afterwards). Updates, if any, fall under this licence; none
+   is owed except under mandatory law.
+2. Distribution. Rendered videos and images without the 3D or source files may be shared freely.
+   Interactive End Products must pack the Asset in their normal build archives (not as loose
+   files) so that end users cannot casually extract it. Never expose raw or editable Asset files
+   in mod kits, standalone mods, open-source source trees or under copyleft licences.
+3. Not allowed. Except as Clauses 1-2 permit: reselling, sharing, sublicensing or giving away the
+   Asset or modified versions of it, alone or in a pack, template, kit or listing; uploading raw
+   or extractable files to public repositories or drives (private team repositories are allowed);
+   using the Asset or renders of it to train or fine-tune machine-learning models or to build
+   datasets for that (except where the law mandatorily allows it); claiming exclusive or
+   trademark rights in the Asset; using the Licensor's name or brand to imply endorsement.
+   No credit is required.
+4. AI and third-party notice. The models and most animations were made with generative AI and
+   processed by the Licensor's scripts; some animations come from a licensed third-party motion
+   library (see AI_DISCLOSURE.txt). AI-generated material may not be protected by copyright in
+   some countries. Clause 1 grants only the copyright or sublicensable rights that exist, without
+   a warranty of intellectual-property rights in AI-generated material, except under mandatory law.
+5. Warranty and liability. Mandatory consumer rights (including the legal guarantee of
+   conformity) and liability for wilful misconduct, gross negligence or personal injury are
+   unaffected. Otherwise the Asset is provided "as is", without warranty, and the Licensor's total
+   liability is limited to the higher of the price paid and EUR 5.
+6. Refunds and termination. Refunds and withdrawal follow the terms of the store that sold or
+   delivered the Asset. This licence ends automatically on refund, withdrawal, chargeback or
+   material breach, and you must then delete the Asset; after a breach, End Products that complied
+   with this licence and were already released stay licensed.
+7. General and law. If a part of this licence is invalid, the rest stays in force. Together with
+   AI_DISCLOSURE.txt and the store's checkout terms this is the whole licence for the Asset.
+   Portuguese law governs it, without limiting the mandatory consumer law of your country of
+   residence. For businesses the courts of Portugal have exclusive jurisdiction; consumers may use
+   the courts of their own domicile.

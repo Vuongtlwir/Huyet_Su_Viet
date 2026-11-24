@@ -1,0 +1,1739 @@
+{
+ "product": "Knight",
+ "version": "2.0",
+ "draft": false,
+ "files": [
+  {
+   "path": "AI_DISCLOSURE.txt",
+   "bytes": 2405,
+   "sha256": "136716f8b6ab544cb64afac8a502f8dfa99c9a9849836138fffe19e706e4d272"
+  },
+  {
+   "path": "CLIPS.csv",
+   "bytes": 32911,
+   "sha256": "653e7d534e4a2aa77ccd015f84b58b206f94cae1aa523477d419e65fc81c94c0"
+  },
+  {
+   "path": "LICENSE.txt",
+   "bytes": 3789,
+   "sha256": "fcb74b1ae39854859faea1350b19aea60d72794ea02a0f5d1f529bd40f0c83aa"
+  },
+  {
+   "path": "README.txt",
+   "bytes": 6401,
+   "sha256": "52fdfa3afa3e3e8076df57c1e592f571b648f0526197a8597df843440859f34d"
+  },
+  {
+   "path": "FBX/SK_Knight.fbx",
+   "bytes": 20291932,
+   "sha256": "e1da7f53ac5c520b5df27fb8483e62fcd16e58bf8edae5324004fc5ee17765f6"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_box_01.fbx",
+   "bytes": 743820,
+   "sha256": "9c3d780a37beea6fba6e7c6f21a948d6ab9d45fe51ad1d0e86ba0ba56439dc11"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_box_01_mirror.fbx",
+   "bytes": 744028,
+   "sha256": "33b9ed124507b81418cf7a4a57fcc5849e1ccc3d5ea42c5781980e20885fc47c"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_box_02.fbx",
+   "bytes": 827724,
+   "sha256": "e226805a579cbacbe1cd0519c40c60494f3009ac8e31515e4f0a9fe75bf75732"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_box_02_mirror.fbx",
+   "bytes": 827692,
+   "sha256": "f1f81385b26433d52e7629a975d1dc2146d0a289b3ec54cd857d37d8cf006b2f"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_box_03.fbx",
+   "bytes": 794460,
+   "sha256": "22f06ef689b434c63352ca21be8b6a0c0171a14be3ea75d91f56657271e2d72d"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_box_03_mirror.fbx",
+   "bytes": 794092,
+   "sha256": "cab465fb8c10236ae4bef695e385c2a5183df883e5baad949933a8c92be022ba"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_cast_a_spell.fbx",
+   "bytes": 1181868,
+   "sha256": "afebb3569ec09810912eb498c47583d5cf8ba1bc35950c3a320d8580732cc9fa"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_cast_a_spell_mirror.fbx",
+   "bytes": 1182284,
+   "sha256": "e55c6199c526f9441d90dfad0e7275c8e185173e3e8bf0e1cd25796895b6f10f"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_chop.fbx",
+   "bytes": 1300028,
+   "sha256": "73d32c9090b5e21b493398df1bb4788114f18b5ee549f3c975536f7febf05231"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_chop_mirror.fbx",
+   "bytes": 1299900,
+   "sha256": "0fb99348dcac4f7632913128ea5703b318a6f74938ef952a7068bc21365c2261"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_fire.fbx",
+   "bytes": 661388,
+   "sha256": "5e708d7915e4e67580fea182256a87bcd9c8356ef31e7172ce037bd8b7a92450"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_fire_mirror.fbx",
+   "bytes": 661084,
+   "sha256": "e35a720a2d1c70a97bf2a2e87ec8fea8757fedd16898d57eec0690bc51f0da7a"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_front_kick_01.fbx",
+   "bytes": 790956,
+   "sha256": "55ec6668211e84738f84e7d33a402fa5cdaac5a9e0e3e009246477838f88e1cf"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_front_kick_01_mirror.fbx",
+   "bytes": 791164,
+   "sha256": "45166df38b5ccefb75ae6727cfc236deab85ba41b55c24654c459963b69805a2"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_front_kick_02.fbx",
+   "bytes": 633452,
+   "sha256": "f99e949e73cb300805a164ec3c3b92633adb10df9bf6af456d80f434a20a37ff"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_front_kick_02_mirror.fbx",
+   "bytes": 633356,
+   "sha256": "90174dc80fca70b09ab1bbe0474a8c39a3dbddea0d9195063f7ab96fdfb0c5ff"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_attack_combo.fbx",
+   "bytes": 973084,
+   "sha256": "6cd02a77144f621fdbb61489bd879274cee3b4946f043579d39fe0cba81930ee"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_attack_combo_mirror.fbx",
+   "bytes": 973484,
+   "sha256": "be48efb7d6512baa29b2a16de3336712985a8a18e57498cdac70f66aae9f5551"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_attack_overhead.fbx",
+   "bytes": 849948,
+   "sha256": "279191fb587588d5aac6a1a3d10c9a752c7add721905b78110ed0269a0d40456"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_attack_slash.fbx",
+   "bytes": 785452,
+   "sha256": "1b10eb0304ccdc4b0ef3ff81f373989501262e59da57c99a7e5be9e06560b969"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_attack_slash_mirror.fbx",
+   "bytes": 785420,
+   "sha256": "4bf7bf2718f7798126d76d42cb1467b5c4f00fa0ea7f539e310e8146618c3223"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_attack_thrust.fbx",
+   "bytes": 785004,
+   "sha256": "a334c842fd42292653f399db083761810e06470d8167d73f935ca78b915ec5c2"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_attack_thrust_mirror.fbx",
+   "bytes": 785308,
+   "sha256": "9fa593c49bc76f18ccaf058b4c8f8d393a2d89f92f4a7444a7f3057515fa0d06"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_kick_push.fbx",
+   "bytes": 785468,
+   "sha256": "8a3048990f946e5e79be89e22983186c363a42f886fdc08ae6472c74a7021465"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_kick_push_mirror.fbx",
+   "bytes": 785356,
+   "sha256": "8a15a459a3b70b865508fffb568c6f9ce15ad70f3129e6402979cb9b3ed691f5"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_lunge_thrust_2h.fbx",
+   "bytes": 851644,
+   "sha256": "a2cc301a0247d860a25ba8752c500a024b692046fb369a7fd39a7a864bc66ae4"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_lunge_thrust_2h_mirror.fbx",
+   "bytes": 852012,
+   "sha256": "bd4a7047bd8a5be0aa156219e76757d46ff096e92c1f9fa9361308b5a0393b4e"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_rising_cut.fbx",
+   "bytes": 785004,
+   "sha256": "f6f226a3f7b7f36330e894d635c45b3a2b292a5cb9b0926247ceb6a7fb893af8"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_shoulder_charge.fbx",
+   "bytes": 851436,
+   "sha256": "bb775e96f834ba6451e9e829508c531db217edbc94e4229a278ca3b8be36e870"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_shoulder_charge_inplace.fbx",
+   "bytes": 849788,
+   "sha256": "c11eb1be8e4b1a4c5984de452b7a9f8c0f690734d9912b09eaa2279f1d84da5b"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_shoulder_charge_mirror.fbx",
+   "bytes": 851500,
+   "sha256": "9edbffab9903d1410dc774fffc03340e926793b48d0d896c79f4d6f5e00d1117"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_shoulder_charge_mirror_inplace.fbx",
+   "bytes": 849996,
+   "sha256": "dfddd38df3ead9f7ab17de5a2f024f501fa1958b781585ad903cdbe22fe2985d"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_spin_slash.fbx",
+   "bytes": 852220,
+   "sha256": "0d983f7c2b6c93361321651663012259262b289d5e6d789ad8203126014f9de8"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_km_spin_slash_mirror.fbx",
+   "bytes": 852508,
+   "sha256": "45fecab62a138d1133f03627d201ebe18b61aef7b843c757a6ff31d4bfe136d3"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_shoot.fbx",
+   "bytes": 1665548,
+   "sha256": "f8d919101b8c63ed2387f60b0ee4b5546938a55ef2f7155f5843e093a33c0dfb"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_shoot_inplace.fbx",
+   "bytes": 1643340,
+   "sha256": "590f2fdda31a2618fef5d4085a3398c1260398466aa5b3781e794bc05f009a77"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_shoot_mirror.fbx",
+   "bytes": 1665868,
+   "sha256": "a734e9d41496543c2d5606c8820c93a93c278c83bdc74de9d5550eef584a181b"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_shoot_mirror_inplace.fbx",
+   "bytes": 1643244,
+   "sha256": "6753aa4f9be23b430df958d0f38f2e1f7da10b8904c47d0ba21cf2a7e6796c8d"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_slash.fbx",
+   "bytes": 1314380,
+   "sha256": "476bbff2b24e4b3175aaba97b090c45a674fe7f05fa8bed319558321a11d0241"
+  },
+  {
+   "path": "FBX/Animations/Combat_Attack/A_Knight_slash_mirror.fbx",
+   "bytes": 1313836,
+   "sha256": "7d76c5fecc49e36d68dea1b457399f3f0e39db9fcd8ebeb1d44da0fb1ae13b39"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_block.fbx",
+   "bytes": 850172,
+   "sha256": "e7fd4b07d50dcb2c00f985ee2fd09464389ac4127b4ba059908b606f3ebac9ca"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_block_mirror.fbx",
+   "bytes": 850220,
+   "sha256": "6369f6c5582f04f91e9825020fc17b8e7b6473e4952f9d19f85efcc4df5b7ac5"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_dodge_back.fbx",
+   "bytes": 729708,
+   "sha256": "c7d7744022a09bcfb94b53e0eeaa238cc092e1120c1a931f973bcf36dac878a5"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_dodge_back_inplace.fbx",
+   "bytes": 729596,
+   "sha256": "9bfac57282bc4ae66b571c5b01dab3a11fada7650c990268fa13e1977bf0e21a"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_dodge_back_mirror.fbx",
+   "bytes": 730028,
+   "sha256": "3230a576a546209d6fafaff1c76a07f908d21ec129a3771e67c4d386c2c5cbc0"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_dodge_back_mirror_inplace.fbx",
+   "bytes": 729740,
+   "sha256": "fb75c9a5fbefdd2a4684418503fd871028b4f00d0d62bd0801102b6bb63e1834"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_guard_high_idle.fbx",
+   "bytes": 969580,
+   "sha256": "ee85cc3974b6ef6f4ae86f1ae8a18865749abb6007a6d0278080709f8d28d927"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_parry_riposte.fbx",
+   "bytes": 792300,
+   "sha256": "971edab8576cd4e2e01f8ea98e638192ff7b476e8ba16b51d4901ef93f1d734b"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_parry_riposte_mirror.fbx",
+   "bytes": 792236,
+   "sha256": "43fc4c083c359c557780af91a799c3847368f88d5e6bbc0dd45aae623f36d4c7"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_roll_forward.fbx",
+   "bytes": 870780,
+   "sha256": "5d80bc5b59652010a9e1ca31f42e5940a06a0d0c9ab74789aea3975358363984"
+  },
+  {
+   "path": "FBX/Animations/Combat_Defense/A_Knight_km_roll_forward_inplace.fbx",
+   "bytes": 867852,
+   "sha256": "f9747beab79faea47eeed8b066cd58b56b922b88d90ae60f0de2a29b0caf5033"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_fall.fbx",
+   "bytes": 871916,
+   "sha256": "47ff43574e23eef44511726be5c3d0433cfd67c0ffec272358de6acba9fdc2ee"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_fall_inplace.fbx",
+   "bytes": 869116,
+   "sha256": "520fe62fc117d69166276dc74aa4ec88934bbcca84ccf9762967389e926c4d9b"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_fall_mirror.fbx",
+   "bytes": 871980,
+   "sha256": "e3bfa7570d1bc167b09a19ca72daa9ed661cc23f0f0f12eb256f49463a29d1d3"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_fall_mirror_inplace.fbx",
+   "bytes": 869292,
+   "sha256": "9ee0bbbe6e3eaab53487e4ebd00a3b39a9f6c16e92204b38e8cd78410c8e2525"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_death_backward.fbx",
+   "bytes": 993900,
+   "sha256": "7c0ee9991c7157e5fcf1736d7d8f4be1b77b8dbe6a39e2b6a3c0efc5af4ee19d"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_death_backward_inplace.fbx",
+   "bytes": 993356,
+   "sha256": "eb847f4f23aa2812ee427ab84bffc0d542fcbf6a7990773e1e19c5b9441df22c"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_death_backward_mirror.fbx",
+   "bytes": 994252,
+   "sha256": "7e06f0819f75688f10e87621088e76759e744acad916a84a2a5f30ed674f5950"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_death_backward_mirror_inplace.fbx",
+   "bytes": 993180,
+   "sha256": "c261e88c697ff52e36e3ba65d063bde237eae5fc6bef9680c90d7d93d86eaf7e"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_death_forward.fbx",
+   "bytes": 998092,
+   "sha256": "d1939584fb6a12161ad6a272b355237c4d09f6edc15386999851a20367bbf286"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_death_forward_inplace.fbx",
+   "bytes": 995532,
+   "sha256": "f64fa51d3e3f54a7d6cc74bdbdaab745b2ef122f03bc2453cb54fb670efe1a83"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_death_forward_mirror.fbx",
+   "bytes": 997996,
+   "sha256": "1cd4f835742526851aded8dda20eaa56a34561d8ef49fe4922e21bb551486db4"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_death_forward_mirror_inplace.fbx",
+   "bytes": 995436,
+   "sha256": "506c6496a7259784973c9acc19fe2dbc357610db2db1404163b210d3a62ddb1b"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_knockdown_getup.fbx",
+   "bytes": 1134524,
+   "sha256": "423351db7267779d0438371601ba79ddfab8978cfb48e5d2a1e928acdfc775cb"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_knockdown_getup_inplace.fbx",
+   "bytes": 1132044,
+   "sha256": "c1d73fd7fe23f08e443a088c235dc899d83465eb5c2689632d4f2c805d195795"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_knockdown_getup_mirror.fbx",
+   "bytes": 1134876,
+   "sha256": "1a697a105463732e0a6d0fa7769fd44a2bf3f8af33cfb46d1ed61fc9e1abf038"
+  },
+  {
+   "path": "FBX/Animations/Death/A_Knight_km_knockdown_getup_mirror_inplace.fbx",
+   "bytes": 1132428,
+   "sha256": "f593794de30c5b75ef14c23ed7397b26b8974b5798d2943abc18931077820f36"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_afraid.fbx",
+   "bytes": 818412,
+   "sha256": "cba0e8fa9f7d5ec502fa6f0000b50774cdf5266db30918cc57b7ce9240fa7087"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_afraid_mirror.fbx",
+   "bytes": 818828,
+   "sha256": "0157f76330ad27537d17537c0e1b33de385393c226d41687c9dd7623f0124d84"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_agree.fbx",
+   "bytes": 991404,
+   "sha256": "a9fbcff5ba0f95b83f0afe3f0dbbed914588a325f83997c91e6c9b2f87ec3f6f"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_angry_01.fbx",
+   "bytes": 915212,
+   "sha256": "fc5252248f4973bebba154e6b7c15835c8eb495a507e18c947c4c5978c6a75bd"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_angry_02.fbx",
+   "bytes": 740588,
+   "sha256": "39cdab18664db09baf1361430845171b2965f42c02e3455b1dc0ad936fd3699b"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_angry_02_inplace.fbx",
+   "bytes": 738876,
+   "sha256": "33d160d0f030ba11334756ef68fc7289e74b61186513655bd29391108898ee04"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_angry_03.fbx",
+   "bytes": 927708,
+   "sha256": "e6037ecba4abac2701709be2eafe35bcaedf1d79b86bee6595e1cc6bccecd239"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_bow.fbx",
+   "bytes": 1257068,
+   "sha256": "35fa53c0739288e2d11e3c5b93f079b70f043729b44776b40c6e17a6efb3a65f"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_cheer.fbx",
+   "bytes": 1981356,
+   "sha256": "0f9356a1d7237a2836f358983a9fe8c0548e66945ec9027c8ebd813bc50b7063"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_cheer_mirror.fbx",
+   "bytes": 1982972,
+   "sha256": "ef3a2c1ae02d305ccd1b9c5fc382c86f5a4a00184778289d7d38db79e9fd7e15"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_clap.fbx",
+   "bytes": 2209772,
+   "sha256": "44adcaafbd561ec10793ea742ef0a1d065574d0146e33b35b3ed1a467a8ab886"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_complain_01.fbx",
+   "bytes": 1291244,
+   "sha256": "5182336d2897e5abc331bf0a47dd0f14b5305651f70642fdef148880ed632061"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_complain_02.fbx",
+   "bytes": 1569660,
+   "sha256": "8d88d6c243e0c98d119f30befe3062c145d2de9aaef2912432643281eb305b60"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_cry.fbx",
+   "bytes": 1499196,
+   "sha256": "4817d1d851740f73329132c40f038a79070c5724796c3369e96ba723a5b298c6"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_dance_01.fbx",
+   "bytes": 3488476,
+   "sha256": "2dd0da5c92d7a0d6b05d2294c167f0eff9a135d73d684dfba7d76affd4b8ad92"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_dance_02.fbx",
+   "bytes": 2145948,
+   "sha256": "44c9fd4b27d653ddce2f4a0043a21c4b300a0f28b3c0e22fb0c737ae8270152b"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_dance_02_inplace.fbx",
+   "bytes": 2143036,
+   "sha256": "9d0ddab423beca95dfb45a6c7e92d03b491bde4c6e0e5086f83c84d424905054"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_dance_03.fbx",
+   "bytes": 2144572,
+   "sha256": "17957c5f1d1b8a48cc8c226f3ab84b1be39b052caead28e5ef83a284b74d23e0"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_dance_04.fbx",
+   "bytes": 1870972,
+   "sha256": "51fe4f76912b29c6f2d161e728e6dbd49353aa873c96bdea5f827176aadbb1c1"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_dance_05.fbx",
+   "bytes": 852412,
+   "sha256": "01a6ee14ecdcb36ef7c199cafbf361446b79cb82b69ee27184c4ce49a7b1e824"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_dance_06.fbx",
+   "bytes": 1885804,
+   "sha256": "c4d7674f3bd78664a10352400d6a6f14f97c54939f053d69e4e9885dc205c287"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_defeat_02.fbx",
+   "bytes": 1572332,
+   "sha256": "8095cced9f28464674126362b84a6aae4794fcf1a5b6930df89d2760a6770fe9"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_defeat_03.fbx",
+   "bytes": 1195868,
+   "sha256": "27714cef7778ae083e432f6c2b8504af0fca397499ce7b129aa772df00ad8ab3"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_defeat_03_mirror.fbx",
+   "bytes": 1196108,
+   "sha256": "4479f4fa65ac67fff3bcabf667a37e17178fe1f4b3fc6d59427e31f1cb33f574"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_depressed.fbx",
+   "bytes": 1075116,
+   "sha256": "a7fa9855cd85ee0f236e4578e263ad3ecedde267d22ac115ace2d1850da87a04"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_depressed_inplace.fbx",
+   "bytes": 1071612,
+   "sha256": "c6a7b006efb3d997a827dd61d220d4c3d416bded6b3fe1ee52b2bc975069a009"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_freaky.fbx",
+   "bytes": 570604,
+   "sha256": "42d1ebd7dd54010d70ef0559f82dfc836cdc1334a8c2491b325b0475088d02e1"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_freaky_mirror.fbx",
+   "bytes": 570636,
+   "sha256": "773f68a35209ec3ecc91f0f5f05d5440a1171dd383ef7556bee6818cad7bcd23"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_frightened.fbx",
+   "bytes": 920044,
+   "sha256": "1957b698933a68683557d5aba7865fb6f608ef1198a70e19c3fc173b1989635d"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_frustrated_01.fbx",
+   "bytes": 936860,
+   "sha256": "636b755d6973c59953c27dc578081d702c3b1de4878b61ddc8638072c3b8056d"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_frustrated_02.fbx",
+   "bytes": 1864556,
+   "sha256": "faf7cd62f313a364f16bbeb574c8bc4ca43f66fdbda8d1b8ac741b13bf2c3317"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_frustrated_02_mirror.fbx",
+   "bytes": 1865004,
+   "sha256": "53854c4b4f265468156641d51be25f984bc9c56b65654dc9e2c01ca18d3da7d6"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_01.fbx",
+   "bytes": 939596,
+   "sha256": "9b8c8613dcf0ec10e912f22a7efda0b511708df62f89e652543d09686664e4e7"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_01_inplace.fbx",
+   "bytes": 936092,
+   "sha256": "4adc0fedf0601407280a0b8f256d621a4c6ad0c28b6713eca7fc545170eb4a59"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_01_mirror.fbx",
+   "bytes": 939644,
+   "sha256": "d45be667cab7982f5184e14371401ca8a158dd7cd906b3354518f848b9200fea"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_01_mirror_inplace.fbx",
+   "bytes": 936028,
+   "sha256": "59307265347224385f6bef019954d81bff06b36edb29a127e454b7ebdf906bab"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_02.fbx",
+   "bytes": 1206364,
+   "sha256": "3f5e1093032bb6d2d6b261768d48609cb069ee45f8827d1f7291a0a0e034846c"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_02_mirror.fbx",
+   "bytes": 1205644,
+   "sha256": "7dc19c56c49f04d90855cb5e2c57fc4d780229569b46edd9e77b252f4461a357"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_03.fbx",
+   "bytes": 1641852,
+   "sha256": "af963f0d1ed93480c880d0f4f4de93832108eeecd58d72eb35eb0cb638c2d75f"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_04.fbx",
+   "bytes": 845324,
+   "sha256": "3a8b3b94a1fba2f259ea4129db34a964156f1f774b495e17c334ca5eff7ca426"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_04_inplace.fbx",
+   "bytes": 843148,
+   "sha256": "5dadda1697d45d29fd6ae32fd667e7c1311b9f7aa7556f351e55423ac9878a94"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_04_mirror.fbx",
+   "bytes": 845452,
+   "sha256": "ef268b31ed1a4218cffd68aa75299eb523808e6156e1b399bbaba7561d101dea"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_greet_04_mirror_inplace.fbx",
+   "bytes": 842940,
+   "sha256": "644930ff9abbaa0049f9f005841ce3b64c3f8793d882e2c6a7e084bc52e903c4"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_hug.fbx",
+   "bytes": 1203868,
+   "sha256": "9986504b85d7708040510b7f6cded6756854dc395b559b7ce7c8aba052e72bac"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_hug_mirror.fbx",
+   "bytes": 1205180,
+   "sha256": "9e9ad53a7458eef21675131ad1e81c3448ea72a196ae3001b12c15138b103ff5"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_km_battle_cry.fbx",
+   "bytes": 784988,
+   "sha256": "07289a3948456aa7acb90c8f840303beed33687a61b6a6abf1db3e7540621c51"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_km_rally_troops.fbx",
+   "bytes": 971564,
+   "sha256": "650cdb0442f2d4e656a4e5f1a088e681b0bedebb61aded24a190b0693737a063"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_km_rally_troops_mirror.fbx",
+   "bytes": 971372,
+   "sha256": "234fd12bc291eb2452ef1d2ebbf7c810735bf4f4f17b34490d7cb9e21f290363"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_km_salute_formal.fbx",
+   "bytes": 921052,
+   "sha256": "40bcd27da145ae47ef8930e10a90ed8ba15c31c163e479b18465781bb108c367"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_km_salute_formal_mirror.fbx",
+   "bytes": 920876,
+   "sha256": "71594359ae187788ed5fcec6ca09ae6ea245c162935e47b37f75101f8e381a8a"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_km_taunt.fbx",
+   "bytes": 850188,
+   "sha256": "0184ff9aacae65fa91400e1603cc4ffe11b6072bafddf6608e5feb4838cb366d"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_km_victory.fbx",
+   "bytes": 850972,
+   "sha256": "2e67316ec26360ed199accdf4e06c95e18c38b2a53d8d4b4a913454ab71b02de"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_laugh_01.fbx",
+   "bytes": 1206508,
+   "sha256": "2cb62e3784a26a759b52b47128726c977a0408b40ab0b62f981878bfa19543c9"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_laugh_01_mirror.fbx",
+   "bytes": 1205900,
+   "sha256": "1f6a4c80339cb473ff35d5441670691566757ffde7da522ea46c124269b801e1"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_laugh_02.fbx",
+   "bytes": 1207212,
+   "sha256": "b615ab08bdddf3df256e23c779e71353c05524ea797688247616d5913d5095de"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_scared_01.fbx",
+   "bytes": 910060,
+   "sha256": "583226f59aca2acbb577052ddd3a322f6ef1f99201a141ad68cb73b727e248b6"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_scared_02.fbx",
+   "bytes": 910668,
+   "sha256": "2a6b6f739de581fb1304d31662eb92f3f2fd67e00a853df36ad58acde7adff22"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_sing_01.fbx",
+   "bytes": 2473132,
+   "sha256": "1bc57b476ba1fe3adb0fa7cc2e1b766941e14487bb05747518b290c853e74b74"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_sing_02.fbx",
+   "bytes": 2423500,
+   "sha256": "2804e82a391e0e719bfb27a9be4cb41875ec7f470bc29e2a89e3989add8ec032"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_sing_02_mirror.fbx",
+   "bytes": 2423228,
+   "sha256": "fe4229877e245c6346a86868a1a786040ee14b1b3f28928c74caa4757537c4a4"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_sing_03.fbx",
+   "bytes": 2208476,
+   "sha256": "8f7c22afc51249757510a8762cff94f797acfa8dc469bad86c7cd35a9f94f95d"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_sing_04.fbx",
+   "bytes": 2714620,
+   "sha256": "26b133866e69e3b02e6350d3f34eba4376e66e4ba3929b0adb7022a1f86c09d6"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_sob.fbx",
+   "bytes": 1205868,
+   "sha256": "8171f136cf50573809a2662e9a768281e95f37ea791662e3d73224b063b51d50"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_sob_mirror.fbx",
+   "bytes": 1205660,
+   "sha256": "01cb1bc3d0b27fd15d9e6ff23cdac00c957d25820240596882f1b92bf06d6a20"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_victory_celebration.fbx",
+   "bytes": 1184892,
+   "sha256": "4fd037ec5404dcce35ad4e2a515103c2f72f72fd79d562f8780d7fdc6592dc1f"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_wave_goodbye_01.fbx",
+   "bytes": 1319228,
+   "sha256": "0d6542181ceba8cebb827abdeb5604d1b9d0d7e900519ec7ae060cee056f2276"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_wave_goodbye_01_mirror.fbx",
+   "bytes": 1319660,
+   "sha256": "22286240ac1859b6fedcfdf45a29fc148cfce93edf959e465a6ee2b0a9cac0c2"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_wave_goodbye_02.fbx",
+   "bytes": 1240348,
+   "sha256": "34c3a736e21d4d64b0fddc23780997588a079f71ce57d5f95e1f055d92524d9a"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_wave_goodbye_02_inplace.fbx",
+   "bytes": 1237852,
+   "sha256": "720b81c77fedd97aacdb9fe8665d7d303661d59c513a0931d3138c8cc959267f"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_wave_goodbye_02_mirror.fbx",
+   "bytes": 1239324,
+   "sha256": "7f65f656d922486a3a67008f0f688bb584600f7aadf19e6de79e059555fcd7ab"
+  },
+  {
+   "path": "FBX/Animations/Emotes/A_Knight_wave_goodbye_02_mirror_inplace.fbx",
+   "bytes": 1236828,
+   "sha256": "e5df563e46b5b7f0134aa0d46c5423fb1c5757ec6155439223168ddecea2946b"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_body_01.fbx",
+   "bytes": 631196,
+   "sha256": "e169c8c84b6f911149cb5cc3b762039a6841444a269d6ac6d45b0cfd0a3f7977"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_body_01_mirror.fbx",
+   "bytes": 631244,
+   "sha256": "dc67c6e78d22d588f2936c0d81d9deed8823ac8fe8ce79ab91371d2209838788"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_body_02.fbx",
+   "bytes": 693532,
+   "sha256": "976316fbf321a499ee3e0bbf3953c32fb98a16b538d973a929552f27300b4298"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_body_02_mirror.fbx",
+   "bytes": 693612,
+   "sha256": "1c09b3fabb5164b334f6221e695561877579134da11017f9c092401e86bc9538"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_head.fbx",
+   "bytes": 710572,
+   "sha256": "bba013f7ba4894177bf1c4b029ab07fc10cf1a0b38d3b897964bad2ab97be789"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_head_mirror.fbx",
+   "bytes": 710316,
+   "sha256": "873d330fb08e377bfdc015ffd3c560d28af593392b2cabd2af74126635deb0a6"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_side.fbx",
+   "bytes": 625676,
+   "sha256": "6d1d77580095ccafe6233c27861cb4cdc779de3fcea7d02c83eb46604f6a3f13"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_side_mirror.fbx",
+   "bytes": 625724,
+   "sha256": "6910dbbc0180f99041cded1b3150a0f1dfa34c43188539ef063250fc94d89f64"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_stomach.fbx",
+   "bytes": 667004,
+   "sha256": "c76b9a88dd92f7694cab37e32bfa1f6d4a8d860b30fc4f4b59347ccc9677a83e"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hit_to_stomach_mirror.fbx",
+   "bytes": 666860,
+   "sha256": "f4ab8e77f1eb3726351933d2131405997cba4706b16d9db9581cc4fb118987b8"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hurt.fbx",
+   "bytes": 2234076,
+   "sha256": "f0f19a3026bf1797cbd9eb80029c98f04490c47c2a0ee61f05ccf6e86dc18b4b"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_hurt_mirror.fbx",
+   "bytes": 2237244,
+   "sha256": "4cd0c793b83d09ceaaae04b9daebf1d71aed751de2d3265478c3110cab7ae4ca"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_km_hit_back.fbx",
+   "bytes": 800556,
+   "sha256": "01418ebbd28eeb9b52045616cc89d1d6252bb6f6d9a89be52dbd479b3d95e662"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_km_hit_back_mirror.fbx",
+   "bytes": 800492,
+   "sha256": "5f962622ffe871a31e876a67c111d72cdbb30fe9469ab7da0ff140720f778969"
+  },
+  {
+   "path": "FBX/Animations/HitReactions/A_Knight_km_hit_front.fbx",
+   "bytes": 801372,
+   "sha256": "9edb6aef58e1509f2661632bed60bae47f4dd94355539d566939fd23a8c77e96"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_fold_arms.fbx",
+   "bytes": 2680668,
+   "sha256": "0c8c8e553938711f2dd5d5755be4ea683752b18d6feb17a3525d86348ccd8d2b"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_idle.fbx",
+   "bytes": 1372204,
+   "sha256": "1379786f2238383b2673384b5c58d35e03a82e656f4cd4a0d082d7a3cc358a16"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_idle_contrapposto.fbx",
+   "bytes": 2445500,
+   "sha256": "375a333c0d3139bc3627648530f01a96e9374c5e0ae53cb9d7ce7de168c321ed"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_idle_inplace.fbx",
+   "bytes": 1372252,
+   "sha256": "8775bf9c286e996580ed296663f99181d15e862633107df7d5c5544a524cb431"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_idle_mirror.fbx",
+   "bytes": 1372060,
+   "sha256": "e9e78441b0b662e5e997585e8bc58f91a68b6a194a072278c21b78b0d41032c6"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_idle_mirror_inplace.fbx",
+   "bytes": 1372108,
+   "sha256": "826a0b2d37573182f68299ab7480e2603d7ef146bae32943831ab3ffdfb05b5b"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_km_idle_combat.fbx",
+   "bytes": 777692,
+   "sha256": "68fbc012a1d7492d984029cb83da665f06f95f7b95dd230c1d24c3e757ba7e9f"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_km_idle_combat_mirror.fbx",
+   "bytes": 777852,
+   "sha256": "26d3acf79a3dbd30ac3cef313568d7065374bce34e2ee928896af0804d70f76d"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_km_idle_relaxed.fbx",
+   "bytes": 966380,
+   "sha256": "632285bbd766a4669beafd1b6ca7c4b8dd314533cb9c9763cb66b374b0a0b789"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_km_planted_rest_idle.fbx",
+   "bytes": 1221516,
+   "sha256": "129e4918ba8c4766a09600036aee7e3bb49c5d015103a3af81b1820ce4fc3be4"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_km_warrior_idle_b.fbx",
+   "bytes": 1119788,
+   "sha256": "3602d40dd1d3d041004262ce71d59a25ea9ea3c96c2253ba1ef74269865364ff"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_km_warrior_idle_b_inplace.fbx",
+   "bytes": 1118236,
+   "sha256": "a22d657210449ea092c117b055ed2091e0661efc85c46d62d7d2d031aed1b0ed"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_km_warrior_idle_b_mirror.fbx",
+   "bytes": 1118684,
+   "sha256": "d383e5e88dc0b221114fa00d9a0fccf52ffbcc74d7c7cbac8dd294396bfa72a3"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_km_warrior_idle_b_mirror_inplace.fbx",
+   "bytes": 1117612,
+   "sha256": "9702d1ca823a15bdfe184d8b9ee36639a05a277eb5b1b8a6af0d12b2f569e740"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_look_around.fbx",
+   "bytes": 2459388,
+   "sha256": "8b5c55763aa9a883d792abfa55829ba2e6e61902ede276027cc153bd9a1362b9"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_scratch.fbx",
+   "bytes": 2244652,
+   "sha256": "abbc8f23e219b67e9633225ad44a6f667bbcbd8df274d218a6b7da136ad9b720"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_standing_relax.fbx",
+   "bytes": 2747244,
+   "sha256": "e815ccefe7c787363f33a08b686547df6d442f72f2d2d67e571d904ecc72a04b"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_wait.fbx",
+   "bytes": 1242092,
+   "sha256": "2c3a9a230d1073d70198c97c01156c30139aa0e4a8a5b258b0b74a6318404954"
+  },
+  {
+   "path": "FBX/Animations/Idle/A_Knight_wait_mirror.fbx",
+   "bytes": 1241708,
+   "sha256": "3414988b46229820cf99dc7251a514ee03a7681aa4fef1959dfd57e0df9aa1ed"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_dig.fbx",
+   "bytes": 2487036,
+   "sha256": "72c193f46ac3a03270a376d087b20fe84a6c8619d68d997659762da242cda2dd"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_dig_mirror.fbx",
+   "bytes": 2487196,
+   "sha256": "2a707e07e303d87263c7b172970aeb3eb0ccfe8dced82b1e4282d1c3ffd675e4"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_km_kneel_oath.fbx",
+   "bytes": 1261260,
+   "sha256": "d5b40f3b2cbe13f7b164c307715982939ed8ecae645580ee6fd19ff500b9609f"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_km_kneel_oath_mirror.fbx",
+   "bytes": 1261132,
+   "sha256": "06d4649f93f1da387334f3f469f3c1e394ecda797ae0bf50c5514a78f9c38355"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_km_pick_up.fbx",
+   "bytes": 849916,
+   "sha256": "549c17fa98660149608cc90ed771fdf22a90d0e7438643281de5fb934eb7212d"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_km_pick_up_mirror.fbx",
+   "bytes": 850092,
+   "sha256": "e5bc7b1f09cbcf6498bc714bd6ba69359655816aa81b26dea0c669a392002e14"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_km_push_door.fbx",
+   "bytes": 998268,
+   "sha256": "3884fe0df19b2961577467c12a87589b9481dc53e33f57618ce044800ae0f33b"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_km_push_door_inplace.fbx",
+   "bytes": 997180,
+   "sha256": "3e54c43f8556a403780004df01bbda39402d4e9dd3f827c47eb4fb24ee88cf6b"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_km_push_door_mirror.fbx",
+   "bytes": 998060,
+   "sha256": "85e36496241fed793df1177d3adcdefcc899d13a7129f5afe38d850f37a31e52"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_km_push_door_mirror_inplace.fbx",
+   "bytes": 997196,
+   "sha256": "ce02cddb3c7fd802b137c4d0deff003563ad0eb6211adaa1ce324b05c2889c94"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_lift_heavy.fbx",
+   "bytes": 2906044,
+   "sha256": "1bed542af3a71a4c8d7c5917d2ef2891ef9a7a5f6cf2fb5686c502db7c8d365b"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_lift_heavy_inplace.fbx",
+   "bytes": 2879964,
+   "sha256": "2ccccf97acb19136677319a59e69830e795c33c95e88f9fd6abafbd247bc8eea"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_lift_heavy_mirror.fbx",
+   "bytes": 2905452,
+   "sha256": "c19dbe7e75b9b4c8b94b371c43e54686f51f8b3bf2f71e6f6833667de08d288b"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_lift_heavy_mirror_inplace.fbx",
+   "bytes": 2880156,
+   "sha256": "bfcb21cf7db1378600176990aa759d5972d9f42282dc568c163b97d938d74f22"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_press-up.fbx",
+   "bytes": 725420,
+   "sha256": "2bed10919b4c87a5a40bdf588d9832e1570f9de5aac969a2130ef2ff8d8f6b0c"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_shovel.fbx",
+   "bytes": 2402604,
+   "sha256": "c1e08d72e6681b6f7c188dd3fd157f32a6d7ddad821504213b08269e8ccc5ecc"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_shovel_mirror.fbx",
+   "bytes": 2403548,
+   "sha256": "3f92aa7bc74fd15edaae71bf7f2958ebc5ba5960369526ac696cff0208eb35e6"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_sit.fbx",
+   "bytes": 1400332,
+   "sha256": "5a87dda3bc01d9e6fbf888e2c699194952d40a7344d9a01b675c4f280f995f8b"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_warm_up.fbx",
+   "bytes": 2850652,
+   "sha256": "c9126dab5d9e3c999656560657cb037fc934062a86bfac7912662a359b4a0a03"
+  },
+  {
+   "path": "FBX/Animations/Interaction/A_Knight_warm_up_mirror.fbx",
+   "bytes": 2851644,
+   "sha256": "7feca8375456c628b2047ed53ca4b324c20b1a5c3270d4e17ec16e304186ff6b"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_climb.fbx",
+   "bytes": 913852,
+   "sha256": "9a7b0a82393788b5a6e09d783b8a39871fe81b308c05b3134d5c2644473c08f4"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_climb_inplace.fbx",
+   "bytes": 909948,
+   "sha256": "9533316d9cf41533ea915be1149bdb2d8d56b8a2064b20342f3501c5936b663e"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_climb_mirror.fbx",
+   "bytes": 914108,
+   "sha256": "13f63d1c50aab318bc698d8372949ffff9fc85f2662e3924bc1edd2f32ea8668"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_climb_mirror_inplace.fbx",
+   "bytes": 910428,
+   "sha256": "a43d63239bf123fa45215055dcbd5cebdb97bbf78cb20e86ed119dd6e76bc325"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_dive.fbx",
+   "bytes": 836844,
+   "sha256": "91cc62a4ac538b60083db87f43dac17d693b6aa102f279eab696971f14f8abb6"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_dive_inplace.fbx",
+   "bytes": 831500,
+   "sha256": "b1bf38e5ee670b355bbc14837a67355fcd60ef3c40863e6caa5acb14aac69866"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_dive_mirror.fbx",
+   "bytes": 836732,
+   "sha256": "ead2e7f917a9940f8c04f9e056860fb260779a8076efc724ff6bd927fac578dc"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_dive_mirror_inplace.fbx",
+   "bytes": 831484,
+   "sha256": "f7be7e7738ac8ae1632a8c56353d9b9b9267cb8cc6557a4a130604446408c664"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flee_01.fbx",
+   "bytes": 829596,
+   "sha256": "e50dbf92d1a22411a7e7d12f5f06acf340c19d812d02318e22d46729e0ce4478"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flee_01_inplace.fbx",
+   "bytes": 825772,
+   "sha256": "4bfb5a42622a33ef5f295d634fa3c9e65b0a7465558c370e8f63fd6606124665"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flee_01_mirror.fbx",
+   "bytes": 829676,
+   "sha256": "bddaa28c3317e7fd2baca887812511f8d263e2df5689b23d1b2b0d5fb9134547"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flee_01_mirror_inplace.fbx",
+   "bytes": 825884,
+   "sha256": "30a6a2bfcbcbfd0445da761de7cb0c0307ee54712c0742bee03393020b1483f5"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flee_02.fbx",
+   "bytes": 963948,
+   "sha256": "45a97fc77f1d5b427e800fc314b3fa36dfecd418cfafd18bd63eba124ae7f94c"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flee_02_inplace.fbx",
+   "bytes": 956348,
+   "sha256": "7c41a93b60b309cb6427571b056683d185be843c7012a6797be11f0f61ae3420"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flee_02_mirror.fbx",
+   "bytes": 963852,
+   "sha256": "b9de46e38e0f87a61c9226033d25210d14df79d0d3c3880192c2460d4bfbd2d1"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flee_02_mirror_inplace.fbx",
+   "bytes": 956284,
+   "sha256": "7ecafe34163afe01151e1552478a12e915aec2b1eeb1ad689fb580f33d8c2818"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flip.fbx",
+   "bytes": 1061036,
+   "sha256": "d7d04e3ca8db2dace4d5f1631fdf40c067bcec7822b19402f234f962e53850d5"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flip_inplace.fbx",
+   "bytes": 1057212,
+   "sha256": "451c0b50cfe0a5dcdadf2eeca4512acc5ef8f15e293c1e484c909d17a5dedc8b"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flip_mirror.fbx",
+   "bytes": 1061436,
+   "sha256": "79c648b75bffa3ee8a577e3563b23806ad73f68f9f07efedb260d513476bb86f"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_flip_mirror_inplace.fbx",
+   "bytes": 1057468,
+   "sha256": "d1667fb92cb290d2a34f587983d1df2b0258c46b41fc53fc6dd9e0ed96673962"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_jump.fbx",
+   "bytes": 757292,
+   "sha256": "b9d64d31e943f3f5d49684e02f6a0856cc45d443536485b46e3d14e83e475c7c"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_jump_down.fbx",
+   "bytes": 964412,
+   "sha256": "084feb985aae166ecf9f8ed636d039f141001233c02e39a4233270a372a6a783"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_jump_down_inplace.fbx",
+   "bytes": 961628,
+   "sha256": "25a1a5ff82409e9e4a3f6c620d137063f6f184f26f898bf570e997b23c2cfcc5"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_jump_forward.fbx",
+   "bytes": 804268,
+   "sha256": "f1eace6b0edd766353f545867be3d15d2cbcc20891b8aba14f40552940bd0810"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_jump_forward_inplace.fbx",
+   "bytes": 800844,
+   "sha256": "e9f82751b41fa20ed466c42d8edb421c9eebd27b7d3d6ce5f7521c636b132c8b"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_march_forward.fbx",
+   "bytes": 987900,
+   "sha256": "d1dbd3eeb1a6745d09517c4ab79be31e9f8db833c4643322e2cfb890d77f9ecf"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_march_forward_inplace.fbx",
+   "bytes": 983036,
+   "sha256": "3d48d8b9f8a788f316d8ebc0e252b59d5e9f8f35045a0f35350ca73353042929"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_run_forward.fbx",
+   "bytes": 1454380,
+   "sha256": "2e7d401b1b353a6f4be53165b7bab5f33030fec207273d6d2f23d0470346fa4e"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_run_forward_inplace.fbx",
+   "bytes": 1439164,
+   "sha256": "28578644be3ac468db37725a73014cd4dada4a23fb166548823471ddf065b614"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_sneak.fbx",
+   "bytes": 650060,
+   "sha256": "ea5c6a756bd2ed7e2e7e4f5e2be6170f5ad80847560d39b05a98cb5cd04615ef"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_sneak_inplace.fbx",
+   "bytes": 648204,
+   "sha256": "e18f31febeef1ace3b9acd3f7b19674b767036de3a9e3d82e35849d89b2a942e"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_sneak_mirror.fbx",
+   "bytes": 650172,
+   "sha256": "e04858390a0f31f1653e4683639353a8ab555c522ea6055f813cc3ff21f06513"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_sneak_mirror_inplace.fbx",
+   "bytes": 648236,
+   "sha256": "a705f47295cd4d3e4689b6cf10dac18baee35079f8395f7133cb5fa1071160d4"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_sprint.fbx",
+   "bytes": 1449820,
+   "sha256": "46659c36a0d028ce1687badebd520497f41a48ccaacfeb427c8848b673866dab"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_sprint_inplace.fbx",
+   "bytes": 1436988,
+   "sha256": "99111ca080af26ccaa3d2c261917fe6d7aae71c5973d15a4d5319a73c4fa269b"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_sprint_mirror.fbx",
+   "bytes": 1449500,
+   "sha256": "e8163b9b9a1190f899673ad7a2f1ef7cafcc8779f5747e2eaeb16b9deb352b75"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_sprint_mirror_inplace.fbx",
+   "bytes": 1437468,
+   "sha256": "4f2d69d8522afeb257067dcf881f9fb8e640bb8190a5b4f138266c7ec0ccc29a"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_strafe_left.fbx",
+   "bytes": 978204,
+   "sha256": "e3cb2a41890355b751eb3e7469c34f9fff7ca9bf56c1900bfa47c6f7cfc0bb5a"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_strafe_left_inplace.fbx",
+   "bytes": 976636,
+   "sha256": "eb6a23e9c92479faa6fb9fb6eb34a9ddba5f3b6faab716dd8a5f21932c70ae13"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_strafe_left_mirror.fbx",
+   "bytes": 978076,
+   "sha256": "ee4545e91d07d10b9b962cc80621d2ed59d5cc4c098236ecb122b15517850fc5"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_strafe_left_mirror_inplace.fbx",
+   "bytes": 976076,
+   "sha256": "7fd09aa8c55b09f7c7896c6de86b6eb36f834b445696c5f7e6b0965e71938da9"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_strafe_right.fbx",
+   "bytes": 1160348,
+   "sha256": "f18174c01f13f194056456f7a81153a5336405f27f4e85f155a9ad9bd0449be8"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_strafe_right_inplace.fbx",
+   "bytes": 1157468,
+   "sha256": "e03315474210bb8facf09371818f8df9c7ba105ec7c22b2df10c875e52399414"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_strafe_right_mirror.fbx",
+   "bytes": 1160540,
+   "sha256": "82261b76a72b02864c45d1af92682a8454fbba41dcca9257aaa053a1a2c39489"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_strafe_right_mirror_inplace.fbx",
+   "bytes": 1157740,
+   "sha256": "f10d131728f4637d43c277328420770953cf6d6c2081137d59c65afb32cf31cf"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_turn_left_90.fbx",
+   "bytes": 728860,
+   "sha256": "86d76072b6822b6ddca1f2d7151970d592bafe94fe3c5b1809256a75c9ba7d9d"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_turn_left_90_mirror.fbx",
+   "bytes": 729116,
+   "sha256": "860fffad00d422004fd36b0470843d8b6e1031f94dcbbb371a2bc8aea827ef4f"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_turn_right_90.fbx",
+   "bytes": 728316,
+   "sha256": "44b3075507390dbac03ffaa4c4c479fd005e1d57810afa5b066bb248f733627e"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_turn_right_90_mirror.fbx",
+   "bytes": 728860,
+   "sha256": "cf8d15140ca4a035643146218d97fabb5d2e69bbf29e29c1d655df52f67b08a2"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_walk_backward.fbx",
+   "bytes": 787052,
+   "sha256": "69fa768249d577a54172ca47f6c51a4558d70b058006b4bf63481721bf43a709"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_walk_backward_inplace.fbx",
+   "bytes": 783532,
+   "sha256": "06276f95e09561aa17e7aeb820aeae28174bc36fe913f71e0cce99c8c28c10a0"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_walk_forward.fbx",
+   "bytes": 798668,
+   "sha256": "ad2300b2c9f8cd3b27cb5b4a5557511af7735e4c58c38acd91c2ae9530ec8a0c"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_walk_forward_inplace.fbx",
+   "bytes": 795292,
+   "sha256": "39d8a969562e5256edcb4146d573ba90d47c3a29eab309d1bf9bc6001e4bea02"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_walk_left.fbx",
+   "bytes": 933404,
+   "sha256": "7b03e5887f4dd7198ec72933848f9c4436d2dbf48c0f64b0cfed7e4f05a12ba5"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_walk_left_inplace.fbx",
+   "bytes": 930556,
+   "sha256": "083d7c17f85979930758c1124ced07c6faed0b8f97d49be9947c6426ca8aeea3"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_walk_left_mirror.fbx",
+   "bytes": 933884,
+   "sha256": "706a69a546188c30c25cb8953b454596fd89b4c55524be3e742d6adba4750c12"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_km_walk_left_mirror_inplace.fbx",
+   "bytes": 931292,
+   "sha256": "982276e5eba2808fe52115262856d3345b72419ef30f9f86b8e5dee4a48d1a44"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_run.fbx",
+   "bytes": 628028,
+   "sha256": "9f652fa7359b1b21775d0a345bb5bca3d0b392566cddc407d47bd2a4f6d15195"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_run_inplace.fbx",
+   "bytes": 625436,
+   "sha256": "3b49a3902b32bf493874f864c17e6c3098d03ddd476d51879a9f93ea6e7075c4"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_run_upstairs.fbx",
+   "bytes": 570636,
+   "sha256": "2a52558504be9895035a24d8b983c4e3b45193f71ccf6d570c939186946c4958"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_run_upstairs_inplace.fbx",
+   "bytes": 570684,
+   "sha256": "3956db524f8d0effe1b8a3cb2b128ad341297df37f1f2a63f597d59ec30a995a"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_swagger.fbx",
+   "bytes": 961308,
+   "sha256": "b533f235da0d30464df400c28df2f272181e11304b16dbdd0ec0e715ad256d75"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_swagger_inplace.fbx",
+   "bytes": 957260,
+   "sha256": "ac0b7bf8d5fb592bb3c15dbdbebd37571fefa40b96d5a153135ed48a4ac0f35d"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_swim.fbx",
+   "bytes": 1225692,
+   "sha256": "68fb570d8dbac10f55fcc422fce01bb9f9d04b1a5ea388be274c72e168c42a3f"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_swim_inplace.fbx",
+   "bytes": 1218012,
+   "sha256": "da061143c32c3e7679eb750504ef5d2a023b06d228e47b53585d3a8919a1f018"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_turn.fbx",
+   "bytes": 977644,
+   "sha256": "3c93bb37eb65cf365f7cb95519d4f1ab62c90aedcdea44191dafc3a39b469bad"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_turn_inplace.fbx",
+   "bytes": 977292,
+   "sha256": "fa64d4cd34d4c4481331651532f2140cbbb08ad64d7fcb034cc9d89fe8763e04"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_turn_mirror.fbx",
+   "bytes": 978028,
+   "sha256": "bb35789dc94c23ea1d583500b03069efa06e53688bcf8223099041fa14cf75f3"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_turn_mirror_inplace.fbx",
+   "bytes": 977404,
+   "sha256": "c0a6f007fa97fb75fef68de83a5c68def5a63cce25117d62ef73a09fac7f291d"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_walk.fbx",
+   "bytes": 780124,
+   "sha256": "e7f94e929bae35ad2466739bc573e71a7645e80598f0237c4cb18b39420253f2"
+  },
+  {
+   "path": "FBX/Animations/Locomotion/A_Knight_walk_inplace.fbx",
+   "bytes": 778844,
+   "sha256": "039438b3c0ef44515dc60ab4ca96f64dbfab6020d446f8247a2c1419dcd93d05"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_basketball_shot.fbx",
+   "bytes": 1335596,
+   "sha256": "70547369dfa42bbd004234db0ddfde2f81739daa472d9840f70a7e31eacb90a7"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_basketball_shot_inplace.fbx",
+   "bytes": 1327436,
+   "sha256": "8df5802b4f16b6124f08013f79fe0a601f391376d104862abb905c65eb0cce3d"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_basketball_shot_mirror.fbx",
+   "bytes": 1334828,
+   "sha256": "6d33b11ab76c3c3d4ddc0464ec0a07dfc0d497621327caa104da51240410b5cc"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_basketball_shot_mirror_inplace.fbx",
+   "bytes": 1326700,
+   "sha256": "18a8ff791776796bf417e01a96cf85bc4d9b9702c9270539cd118da1bfca71e7"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_cross_body_crunch.fbx",
+   "bytes": 644860,
+   "sha256": "3ac9cb4ef76df2fcc4d275bb78250feb173e6ff2bea50d269c3ab7f28ddc83df"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_crossover_dribble.fbx",
+   "bytes": 1751148,
+   "sha256": "04764892cea6779b28364c5eb09059b2c3b0d83abf33ae337e1f15fa69e4df04"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_dribble.fbx",
+   "bytes": 1691276,
+   "sha256": "5da422384633e25e70ba5e38947cc44e0844bad5b6ce18bd78ff69db6dde1dba"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_dribble_inplace.fbx",
+   "bytes": 1688060,
+   "sha256": "82683bb9fb0b848ce8b064f9ecac53fe8acca9f4ef83e5251fb2e82746761a58"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_dribble_mirror.fbx",
+   "bytes": 1691196,
+   "sha256": "d63bcfe342ed4a3bd0566c5e5c21cec28f45c17ef46b0f9847f7bb0f747a61e5"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_dribble_mirror_inplace.fbx",
+   "bytes": 1687740,
+   "sha256": "0a8fd7e5448782225d3d6729d4773f81e12ca1a6496648da66abdf96039f5830"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_catch.fbx",
+   "bytes": 931148,
+   "sha256": "bd6458938ecd6fb79258d45ff218863d7d6ace69a1ffa00f3855ef100c5cb6cd"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_catch_inplace.fbx",
+   "bytes": 931276,
+   "sha256": "4e65dbac8168aed8a9f36e43346387497c068387f5ea9c7b7d717357864345df"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_pass.fbx",
+   "bytes": 1901180,
+   "sha256": "af247f3c58a24f3b2cdabb93823f2eaf6c2349bee257be65a9c2872be69943ad"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_pass_inplace.fbx",
+   "bytes": 1898748,
+   "sha256": "1d58dcef3ecabe57a5eee859c0c06f164045205c62217f2fbece4520d56e4823"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_pass_mirror.fbx",
+   "bytes": 1900076,
+   "sha256": "9285d6c18f0d3f152ce4bc094d2f4075262cfa9fdc3c51f14178e8354eca5996"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_pass_mirror_inplace.fbx",
+   "bytes": 1897628,
+   "sha256": "a0c25a6c7e816c758a453709ccfda9af5026187093905a65b1d4aaa896a554f9"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_save.fbx",
+   "bytes": 911836,
+   "sha256": "bead447289ad529de0db18a89e631e7671db172c3174f29c35d0a4b519f7410e"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_save_inplace.fbx",
+   "bytes": 909580,
+   "sha256": "74ded61b1abd5eade15457410d08dcf1786be692eeb48fa0fcbc6db9cbb2c58a"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_save_mirror.fbx",
+   "bytes": 911628,
+   "sha256": "44c62d4e4a807b2ce52ed383fabe8033fe89f230183e44edd5882b5045108d95"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_football_save_mirror_inplace.fbx",
+   "bytes": 909740,
+   "sha256": "4acde06da62b26a1bc9d45e8f375c159d43d0e4c30a56da2b048e91ce10b13c9"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_golf.fbx",
+   "bytes": 2444812,
+   "sha256": "b0520935403d089d1316b5f6d9d475fd326342f076db751a802ecc1c791cca3c"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_golf_mirror.fbx",
+   "bytes": 2444828,
+   "sha256": "c280255a296d4099196a4df44e05de982dcba706a374cb5e198202d31f67605a"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_heart_pose.fbx",
+   "bytes": 1183052,
+   "sha256": "ebd525a7e9bee3b2c47626d988bd8e1499de93bcb9ea48be27be6d8bd9f46769"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_heart_pose_mirror.fbx",
+   "bytes": 1182220,
+   "sha256": "d80118b0cab1aad9e464560a71ff7d8a7a72381cf973a13e65d475c30d6b7fb8"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_jump_rope_01.fbx",
+   "bytes": 1679836,
+   "sha256": "83dd8d6418ee9ccbcfd19e5bd2252598f6778bc58859bbbf4b39bd0dd388be04"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_jump_rope_01_mirror.fbx",
+   "bytes": 1679692,
+   "sha256": "556e66550e13d2f892853d1c45fbfc2fec3ae4166e83b9bf4f47d712bf33b5fd"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_jump_rope_02.fbx",
+   "bytes": 1673036,
+   "sha256": "eaae7df0873942d655888366eeef8d277608b35583c2c7701b0739de1cd23b8f"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_jump_rope_02_mirror.fbx",
+   "bytes": 1671612,
+   "sha256": "60a7130096aba69127a1dde002f9355452c1439db03c511b88030e5397e8286f"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_make_a_call_01.fbx",
+   "bytes": 2688268,
+   "sha256": "24e8e139dce00007fd01b62af86173c829f0533b9d7d3be22537f704f3349f15"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_make_a_call_01_mirror.fbx",
+   "bytes": 2683340,
+   "sha256": "2575f9a71d1554b1018ca86ccca59b430976b7588d445b7c34d8ad8d980b7344"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_make_a_call_02.fbx",
+   "bytes": 2670732,
+   "sha256": "3785c0765da4f0bdf3b22d54dc903215fb576089e67f973102a7c1e29062a483"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_make_a_call_02_mirror.fbx",
+   "bytes": 2669900,
+   "sha256": "094b0ab712a705aeb110d1f2fd4ce95388a56a63436b6309e7e831bd21a0f841"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_pitch_baseball.fbx",
+   "bytes": 966604,
+   "sha256": "55e4ea28b38b6d12e788dbf831f591627c6db8d138447d7180482dd0f127d926"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_pitch_baseball_mirror.fbx",
+   "bytes": 966652,
+   "sha256": "7e8f1f0b1de850b23e30a0939ae9ec7b735858d6496ddc371388216d0bfe5758"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_play_mobile_game.fbx",
+   "bytes": 2765596,
+   "sha256": "968c7beb9d3aa55eb1a0b74a85bb6c4217efd90f7fab1dee8e7d7ba2515979cd"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_play_video_game.fbx",
+   "bytes": 2430172,
+   "sha256": "d732ff5c855c09889763e69e8408a98ad1042c43a50f3a1c8983a447cf35fc3d"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_play_video_game_mirror.fbx",
+   "bytes": 2429292,
+   "sha256": "d6be3fd7b7a73149e1ad50b3fcb3a693b301ea8fda144aeb3c94c5d0f4160962"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_surf.fbx",
+   "bytes": 951772,
+   "sha256": "dddb1d4f09a433723f9585678def817fa3119fde2b0b1020a2aa541c59375d73"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_surf_mirror.fbx",
+   "bytes": 951004,
+   "sha256": "687419bb2517842b7ea1af947e99e5bf2a81e6ab612fb7fa26032f5a1f23dc14"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_volleyball.fbx",
+   "bytes": 1587404,
+   "sha256": "914e0ac41c82d8e70bac316659788c8c378d4f4417060160860687cb054c1fb8"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_volleyball_inplace.fbx",
+   "bytes": 1581308,
+   "sha256": "086573bb1158d93d6646d3bf575c2710fa367ed4dd8f73026590bb5323263aa5"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_volleyball_mirror.fbx",
+   "bytes": 1587292,
+   "sha256": "a110ed946e8224174fee20791c45980bdafaf589ade3c91141befc38da3a9a7a"
+  },
+  {
+   "path": "FBX/Animations/_Extras_OffTheme/A_Knight_volleyball_mirror_inplace.fbx",
+   "bytes": 1581980,
+   "sha256": "8c84622586505b5223a81979df4b3048aba77b87c5caf416bd7230b0b239105d"
+  },
+  {
+   "path": "Textures/Common/T_Knight_Body_BaseColor.png",
+   "bytes": 17982679,
+   "sha256": "72a81e64852f491221f5cbde8d11f0a964b822310767e9a75b27f681dbb60e51"
+  },
+  {
+   "path": "Textures/Common/T_Knight_Gauntlet_BaseColor.png",
+   "bytes": 21822216,
+   "sha256": "a82954a39bc2f9cf18c1ad6cdba526b5e28fb3909aaae5e5b36967fcb8c88f38"
+  },
+  {
+   "path": "Textures/Common/T_Knight_Helmet_BaseColor.png",
+   "bytes": 16542372,
+   "sha256": "aba33e7824cd9a1304cbeaaab73a5aee7d8df273ea67041aa6e90b5573ad8e34"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Body_MetallicSmoothness.png",
+   "bytes": 8911812,
+   "sha256": "dd4fba5c6a902284d7d82d8991b574d6171cf319d49379c019398a4bc20584f9"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Body_Normal_OpenGL.png",
+   "bytes": 15873862,
+   "sha256": "21c5d5f5654a2b4be16babb8253640acb1858da9b1af46bf5ee08097b56e34f3"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Body_Occlusion.png",
+   "bytes": 8101646,
+   "sha256": "9f50c85a897ea666df477a009330ee8f227f1b4c783aac600a8896f7ac4cd016"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Gauntlet_MetallicSmoothness.png",
+   "bytes": 8174977,
+   "sha256": "0fd7b2fa1f21801098b3d4228feaf23f7644de6e9ef4a3466b35c11f379cbb7a"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Gauntlet_Normal_OpenGL.png",
+   "bytes": 14007048,
+   "sha256": "998be834c48ae2810e54a3e09bcdf06a7abdacb889898a12567a3773e208ba8d"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Gauntlet_Occlusion.png",
+   "bytes": 7794842,
+   "sha256": "f51318166f5a59ac0c689d742c9dc19c04d5f13f3a3ae5872d096e44a7b7ba50"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Helmet_MetallicSmoothness.png",
+   "bytes": 8419696,
+   "sha256": "c588f2f7e623f906c701adfb760494fbb05c6378aa5b787e0da7a9e2cb507e28"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Helmet_Normal_OpenGL.png",
+   "bytes": 13630520,
+   "sha256": "5a2ce5d1f674230207c101b5c45bebe900fb9e02122dc2918ea3c83a256f0719"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Helmet_Occlusion.png",
+   "bytes": 6360174,
+   "sha256": "dae9ab43e8fa17a22398ceb26caf8a09b0ccdaa8446686fc181dd7a999791779"
+  },
+  {
+   "path": "Textures/Unreal/T_Knight_Body_Normal.png",
+   "bytes": 15867742,
+   "sha256": "c092860ce68a5df6845cdd6da3c5a3b9c6eab6845e07c8fd1bb7bb7cedf1a615"
+  },
+  {
+   "path": "Textures/Unreal/T_Knight_Body_ORM.png",
+   "bytes": 14032933,
+   "sha256": "581e5ebd9b8cb4488daa683aa54030574c10d649b866c1de53b7443a22598752"
+  },
+  {
+   "path": "Textures/Unreal/T_Knight_Gauntlet_Normal.png",
+   "bytes": 14004379,
+   "sha256": "023c8ca143581716c022e8689fc0b27d6fa974500eecdda15485115189e18674"
+  },
+  {
+   "path": "Textures/Unreal/T_Knight_Gauntlet_ORM.png",
+   "bytes": 13566847,
+   "sha256": "b8c20ead7b06dbed8ecce7f55a418f07bef44b766b698e961af4baa7586d3287"
+  },
+  {
+   "path": "Textures/Unreal/T_Knight_Helmet_Normal.png",
+   "bytes": 13628913,
+   "sha256": "30aa7625683283ea7dc8fff611cdcb9c9b90676923405dcb8289dbde7628aa34"
+  },
+  {
+   "path": "Textures/Unreal/T_Knight_Helmet_ORM.png",
+   "bytes": 12408838,
+   "sha256": "314643321288555337591a782ad2411e5a4eb003dedea9b43e5cd1678ac9fe0f"
+  }
+ ],
+ "triangles": 517488,
+ "bones": [
+  "root",
+  "pelvis",
+  "spine_01",
+  "spine_02",
+  "spine_03",
+  "clavicle_l",
+  "upperarm_l",
+  "lowerarm_l",
+  "hand_l",
+  "index_01_l",
+  "index_02_l",
+  "index_03_l",
+  "middle_01_l",
+  "middle_02_l",
+  "middle_03_l",
+  "pinky_01_l",
+  "pinky_02_l",
+  "pinky_03_l",
+  "ring_01_l",
+  "ring_02_l",
+  "ring_03_l",
+  "thumb_01_l",
+  "thumb_02_l",
+  "thumb_03_l",
+  "lowerarm_twist_01_l",
+  "upperarm_twist_01_l",
+  "pauldron_l",
+  "clavicle_r",
+  "upperarm_r",
+  "lowerarm_r",
+  "hand_r",
+  "index_01_r",
+  "index_02_r",
+  "index_03_r",
+  "middle_01_r",
+  "middle_02_r",
+  "middle_03_r",
+  "pinky_01_r",
+  "pinky_02_r",
+  "pinky_03_r",
+  "ring_01_r",
+  "ring_02_r",
+  "ring_03_r",
+  "thumb_01_r",
+  "thumb_02_r",
+  "thumb_03_r",
+  "weapon_r",
+  "lowerarm_twist_01_r",
+  "upperarm_twist_01_r",
+  "pauldron_r",
+  "neck_01",
+  "head",
+  "thigh_l",
+  "calf_l",
+  "calf_twist_01_l",
+  "foot_l",
+  "ball_l",
+  "thigh_twist_01_l",
+  "thigh_r",
+  "calf_r",
+  "calf_twist_01_r",
+  "foot_r",
+  "ball_r",
+  "thigh_twist_01_r",
+  "fauld_fl",
+  "fauld_fr",
+  "fauld_sl",
+  "fauld_sr",
+  "fauld_bl",
+  "fauld_br"
+ ],
+ "helper_bones": [
+  "pauldron_l",
+  "weapon_r",
+  "pauldron_r",
+  "fauld_fl",
+  "fauld_fr",
+  "fauld_sl",
+  "fauld_sr",
+  "fauld_bl",
+  "fauld_br"
+ ],
+ "clips": 306,
+ "texture_layout": "shared",
+ "textures_from_character_package": []
+}

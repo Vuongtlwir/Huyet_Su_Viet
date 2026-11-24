@@ -1,0 +1,6 @@
+# The textures of these parts are NOT in this folder: they are in the hero's Character folder
+# (Character/Knight/Textures). Import the Character folder too, in the same project, then run the
+# material setup. One texture set name per line.
+T_Knight_Body
+T_Knight_Gauntlet
+T_Knight_Helmet

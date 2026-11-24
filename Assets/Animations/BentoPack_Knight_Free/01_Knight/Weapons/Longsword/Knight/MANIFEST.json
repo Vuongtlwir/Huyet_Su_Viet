@@ -1,0 +1,203 @@
+{
+ "product": "Knight",
+ "version": "2.0",
+ "draft": false,
+ "files": [
+  {
+   "path": "AI_DISCLOSURE.txt",
+   "bytes": 2299,
+   "sha256": "1c3921d0079502b2e0f024a397f478ea50fed329abad5a2ae4177757f484875c"
+  },
+  {
+   "path": "CLIPS.csv",
+   "bytes": 984,
+   "sha256": "32037314905360bf7f9f543c8b3a39858c9ccc29ea4e6c56cd2154da13c15934"
+  },
+  {
+   "path": "LICENSE.txt",
+   "bytes": 3801,
+   "sha256": "ae1fcaa401667139282c6679ed4883f10aa63ba4e76bef4e0f91e7f865eaf6e2"
+  },
+  {
+   "path": "README.txt",
+   "bytes": 7121,
+   "sha256": "e684143125bb925ef93b91ce101abcdeafc5e9db72095bb82d8e1554e9b16b88"
+  },
+  {
+   "path": "FBX/SK_Knight.fbx",
+   "bytes": 20291932,
+   "sha256": "e1da7f53ac5c520b5df27fb8483e62fcd16e58bf8edae5324004fc5ee17765f6"
+  },
+  {
+   "path": "FBX/Animations/Combat_Longsword/A_Knight_idle_sword.fbx",
+   "bytes": 1373516,
+   "sha256": "9e6639862f32d312198c6a86ecca504a02bfd583093b97928680835196db35d9"
+  },
+  {
+   "path": "FBX/Animations/Combat_Longsword/A_Knight_km_attack_slash_sword.fbx",
+   "bytes": 785980,
+   "sha256": "7c8974c62f076f9f914e83fd2cf0d9688211a4ea4dc7d7cf7af07e76f34862f9"
+  },
+  {
+   "path": "FBX/Animations/Combat_Longsword/A_Knight_km_march_forward_sword.fbx",
+   "bytes": 988124,
+   "sha256": "9302629b660ac95a85781dd77d066d73c7139ace81ed316b8928c13b05df3591"
+  },
+  {
+   "path": "FBX/Animations/Combat_Longsword/A_Knight_km_parry_riposte_sword.fbx",
+   "bytes": 792556,
+   "sha256": "21ffbd4da02033dd2d41e695f4bd8ad5a7630fd21d1ea2e3b9f0111ae123d163"
+  },
+  {
+   "path": "FBX/Animations/Combat_Longsword/A_Knight_km_walk_forward_sword.fbx",
+   "bytes": 791116,
+   "sha256": "d1ab0c986f3a21e5eebac1b9691344f9686ddb6073b97c61cfd2042eb23d63cd"
+  },
+  {
+   "path": "FBX/Animations/Combat_Longsword/A_Knight_km_warrior_idle_b_sword.fbx",
+   "bytes": 1373596,
+   "sha256": "8b765929c1d4fb8e3883998b38c70531d52c8b9f72d30977dabc1e95ffee23e5"
+  },
+  {
+   "path": "FBX/Animations/Combat_Longsword/A_Knight_victory_celebration_sword.fbx",
+   "bytes": 1185692,
+   "sha256": "0313e24c37823cdece8dc7d0a9cd3f689fef5c22b4354f3e3988aea297a5a0b3"
+  },
+  {
+   "path": "FBX/Props/SK_Knight_Longsword.fbx",
+   "bytes": 853596,
+   "sha256": "a9ba440639dcbe95105d94c166f520659ef8711af25699443aae576da133a40b"
+  },
+  {
+   "path": "FBX/Props/SM_Knight_Longsword.fbx",
+   "bytes": 719116,
+   "sha256": "39157a13aac4b98115162fba7a5134ea56a3f7e9370096880ee3963edc94320a"
+  },
+  {
+   "path": "Textures/SHARED_FROM_CHARACTER.txt",
+   "bytes": 295,
+   "sha256": "78e4db6001af57312dc248aaeb5a1d54387040b9d961cd096e64f8399a36aa71"
+  },
+  {
+   "path": "Textures/Common/T_Knight_Longsword_BaseColor.png",
+   "bytes": 6098305,
+   "sha256": "4f59aacc5b2db3b499a4f71e9a26ba67108f67d5150f1302f5eecdfbef6ddcb7"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Longsword_MetallicSmoothness.png",
+   "bytes": 2900796,
+   "sha256": "0e6c3e713344fff27fcf82892bed154b4fcc6be4e18d09cf944138366fac0895"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Longsword_Normal_OpenGL.png",
+   "bytes": 4513028,
+   "sha256": "bac1b0f8cffbb56f6f5d3414386d157503c0c49523ac9875e8a3ecb68a26301d"
+  },
+  {
+   "path": "Textures/Unity/T_Knight_Longsword_Occlusion.png",
+   "bytes": 8533,
+   "sha256": "7368a2762f0210ba889788e2c23314e77fc184beecf5c6b5ffbe8279ed4f308a"
+  },
+  {
+   "path": "Textures/Unreal/T_Knight_Longsword_Normal.png",
+   "bytes": 4512298,
+   "sha256": "e9364b81f74f325067399171bee3ba3a12f8bab069aaff06d1e3a23565153342"
+  },
+  {
+   "path": "Textures/Unreal/T_Knight_Longsword_ORM.png",
+   "bytes": 2640950,
+   "sha256": "40cf2b88628a2cb5b2801679563e1ae1c87c322b4b2811ac6362b7d7d7acb7fb"
+  }
+ ],
+ "triangles": 517488,
+ "bones": [
+  "root",
+  "pelvis",
+  "spine_01",
+  "spine_02",
+  "spine_03",
+  "clavicle_l",
+  "upperarm_l",
+  "lowerarm_l",
+  "hand_l",
+  "index_01_l",
+  "index_02_l",
+  "index_03_l",
+  "middle_01_l",
+  "middle_02_l",
+  "middle_03_l",
+  "pinky_01_l",
+  "pinky_02_l",
+  "pinky_03_l",
+  "ring_01_l",
+  "ring_02_l",
+  "ring_03_l",
+  "thumb_01_l",
+  "thumb_02_l",
+  "thumb_03_l",
+  "lowerarm_twist_01_l",
+  "upperarm_twist_01_l",
+  "pauldron_l",
+  "clavicle_r",
+  "upperarm_r",
+  "lowerarm_r",
+  "hand_r",
+  "index_01_r",
+  "index_02_r",
+  "index_03_r",
+  "middle_01_r",
+  "middle_02_r",
+  "middle_03_r",
+  "pinky_01_r",
+  "pinky_02_r",
+  "pinky_03_r",
+  "ring_01_r",
+  "ring_02_r",
+  "ring_03_r",
+  "thumb_01_r",
+  "thumb_02_r",
+  "thumb_03_r",
+  "weapon_r",
+  "lowerarm_twist_01_r",
+  "upperarm_twist_01_r",
+  "pauldron_r",
+  "neck_01",
+  "head",
+  "thigh_l",
+  "calf_l",
+  "calf_twist_01_l",
+  "foot_l",
+  "ball_l",
+  "thigh_twist_01_l",
+  "thigh_r",
+  "calf_r",
+  "calf_twist_01_r",
+  "foot_r",
+  "ball_r",
+  "thigh_twist_01_r",
+  "fauld_fl",
+  "fauld_fr",
+  "fauld_sl",
+  "fauld_sr",
+  "fauld_bl",
+  "fauld_br"
+ ],
+ "helper_bones": [
+  "pauldron_l",
+  "weapon_r",
+  "pauldron_r",
+  "fauld_fl",
+  "fauld_fr",
+  "fauld_sl",
+  "fauld_sr",
+  "fauld_bl",
+  "fauld_br"
+ ],
+ "clips": 7,
+ "texture_layout": "shared",
+ "textures_from_character_package": [
+  "T_Knight_Body",
+  "T_Knight_Gauntlet",
+  "T_Knight_Helmet"
+ ]
+}
